@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+
 hsx() {
   local file="${1:-/dev/stdin}"
   mkdir -p status_codes
